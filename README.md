@@ -7,9 +7,9 @@ for the GSLM. First, we start comprehending these units by analyzing them in thr
 
 ## Online Interactive Research Tool:
 
-[Link for the website](https://audio-lab.cs.huji.ac.il/units)
+[Link for the website](https://audio-lab.cs.huji.ac.il/units/)
 
-![img_app](github_media/app.png)
+![img_app](github_media/app_view.png)
 ### Supported configurations :
 **Dense Models**: HuBERT, CPC
 
