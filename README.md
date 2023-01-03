@@ -1,6 +1,6 @@
 # SLM Discrete Representations
 
-Implement the method described in the [Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling](TODO).
+Implement the method described in the [Analysing Discrete Self Supervised Speech Representation for Spoken Language Modeling](https://arxiv.org/abs/2301.00591).
 
 **Abstract**: This work profoundly analyzes discrete self-supervised speech representations through the eyes of Generative Spoken Language Modeling (GSLM). Following the findings of such an analysis, we propose practical improvements to the discrete unit
 for the GSLM. First, we start comprehending these units by analyzing them in three axes: interpretation, visualization, and resynthesis. Our analysis finds a high correlation between the speech units to phonemes and phoneme families, while their correlation with speaker or gender is weaker. Additionally, we found redundancies in the extracted units and claim that one reason may be the units' context. Following this analysis, we propose a new, unsupervised metric to measure unit redundancies. Finally, we use this metric to develop new methods that improve the robustness of units' clustering and show significant improvement considering zero-resource speech metrics such as ABX.
